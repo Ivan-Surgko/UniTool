@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "unitool:item/unlimited_multi_tool"
+  }
+}

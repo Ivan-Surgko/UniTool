@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "crafted_advanced_multi_tool": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "unitool:unlimited_multi_tool"
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "unitool:unlimited_multi_tool"
+    },
+    "title": {
+      "translate": "advancement.unitool.unlimited_multi_tool.title"
+    },
+    "description": {
+      "translate": "advancement.unitool.unlimited_multi_tool.description",
+      "color": "gold"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "parent": "unitool:uni_tool",
+  "rewards": {
+    "experience": 352
+  }
+}

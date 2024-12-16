@@ -1,0 +1,11 @@
+{
+  "_comment_items": "Tools",
+  "item.unitool.diamond_multi_tool": "Diamond multitool",
+  "item.unitool.unlimited_multi_tool": "Unlimited multitool",
+
+  "_comment_advancements": "Advancements",
+  "advancement.unitool.diamond_multi_tool.title": "Multi-Tool?",
+  "advancement.unitool.diamond_multi_tool.description": "Create a versatile multi-functional tool.",
+  "advancement.unitool.unlimited_multi_tool.title": "Latest Model",
+  "advancement.unitool.unlimited_multi_tool.description": "Create the best multi-tool."
+}

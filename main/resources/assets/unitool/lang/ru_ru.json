@@ -1,0 +1,11 @@
+{
+  "_comment_items": "Инструменты",
+  "item.unitool.diamond_multi_tool": "Алмазный мультитул",
+  "item.unitool.unlimited_multi_tool": "Бесканечный мультитул",
+
+  "_comment_advancements": "Достижение",
+  "advancement.unitool.diamond_multi_tool.title": "Мульти-Инструмент?",
+  "advancement.unitool.diamond_multi_tool.description": "Создать универсальный многофункциональный инструмент.",
+  "advancement.unitool.unlimited_multi_tool.title": "Последная Модель",
+  "advancement.unitool.unlimited_multi_tool.description": "Создайте лучший многофункциональный инструмент."
+}

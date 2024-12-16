@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "unitool:item/diamond_multi_tool"
+  }
+}
